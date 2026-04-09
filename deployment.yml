@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: your-docker-id/student-static-web:latest
+        image: 23mis0471/student-static-web:latest
         ports:
         - containerPort: 80
 
